@@ -245,7 +245,7 @@
   },
   "67": {
     "name": "Appetiser",
-    "description": "Start the game with half a slice of Terror strength"
+    "description": "Start the game with a small amount of blood"
   },
   "68": {
     "name": "Fully Alert",
@@ -257,7 +257,7 @@
   },
   "70": {
     "name": "Rage Refund",
-    "description": "Get a slice of Terror strength if someone you executed gets antidoted"
+    "description": "Gain blood if someone you executed gets antidoted"
   },
   "71": {
     "name": "Last Laugh",
@@ -269,7 +269,7 @@
   },
   "73": {
     "name": "Solar Powered",
-    "description": "Torches slowly recharge when the lights are on"
+    "description": "Torches slowly recharge up to 50% when the lights are on"
   },
   "74": {
     "name": "Speedy Recovery",
